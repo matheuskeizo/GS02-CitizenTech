@@ -34,19 +34,6 @@ O app tem uma lista de ruas monitoradas. Para cada rua ele consulta a chuva prev
    - **Reportar**: formulário para enviar um relato. Depois de enviar, o app volta para a aba Início, onde o relato aparece no topo da lista.
    - **Perfil**: tem o atalho para **Meus Relatos**, onde também é possível excluir relatos (o app pede confirmação antes de apagar).
 
-## Prints das telas
-
-| Splash | Onboarding 1 | Onboarding 2 | Onboarding 3 |
-|:--:|:--:|:--:|:--:|
-| <img src="prints/01_splash.png" width="200"> | <img src="prints/02_onboarding_1.png" width="200"> | <img src="prints/03_onboarding_2.png" width="200"> | <img src="prints/04_onboarding_3.png" width="200"> |
-
-| Início | Detalhes | Reportar | Perfil |
-|:--:|:--:|:--:|:--:|
-| <img src="prints/05_home.png" width="200"> | <img src="prints/06_detalhes.png" width="200"> | <img src="prints/07_reportar.png" width="200"> | <img src="prints/08_perfil.png" width="200"> |
-
-| Meus Relatos | Erro na API |
-|:--:|:--:|
-| <img src="prints/09_meus_relatos.png" width="200"> | <img src="prints/10_erro.png" width="200"> |
 
 ## API utilizada
 
