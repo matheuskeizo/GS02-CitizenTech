@@ -12,7 +12,7 @@ Aplicativo mobile feito em Flutter que mostra o risco de alagamento em ruas de a
 
 ## Links
 
-- GitHub: [COLE AQUI O LINK DO REPOSITÓRIO]
+- GitHub: (https://github.com/matheuskeizo/GS02-CitizenTech)
 - Vídeo pitch: [COLE AQUI O LINK DO VÍDEO]
 
 ## Tema da Global Solution
